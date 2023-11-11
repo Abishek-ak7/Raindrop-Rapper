@@ -1,5 +1,3 @@
-Certainly! Let's create documentation for the Raindrop Rapper project:
-
 ### Raindrop Rapper Documentation
 
 **1. Project Overview:**
